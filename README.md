@@ -13,6 +13,6 @@ the pdf file and the mind map note will be given
 
 This week I have contact my tutor and get some help from him. Start with reading and writing rp. Also remenber to imporve programming skills with the official examples in [keras](https://keras.io/examples/).
 
-date: 2022/02/24
+Date: 2022/02/24
 reading: [*Recent Advances in Open Set Recognition- A Survey* ](https://github.com/gwt9970161/Great-Project-/blob/main/2.%20Recent%20Advances%20in%20Open%20Set%20Recognition-%20A%20%20Survey.pdf)
 
