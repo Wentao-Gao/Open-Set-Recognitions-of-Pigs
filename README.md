@@ -16,3 +16,7 @@ This week I have contact my tutor and get some help from him. Start with reading
 Date: 2022/02/24
 reading: [*Recent Advances in Open Set Recognition- A Survey* ](https://github.com/gwt9970161/Great-Project-/blob/main/2.%20Recent%20Advances%20in%20Open%20Set%20Recognition-%20A%20%20Survey.pdf)
 
+in the progress of reading papers, some concept are vital for me to understanding first.
+So I make some notes on CNN and SVM.
+CNN: 
+SVM:
