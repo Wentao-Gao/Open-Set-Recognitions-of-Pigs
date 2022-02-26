@@ -24,3 +24,14 @@ CNN: [*Convolutional Neural Network*](https://github.com/gwt9970161/Great-Projec
 SVM: [*Support Vector Machine*](https://github.com/gwt9970161/Great-Project-/blob/main/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA.md)
 
 These two file can help understand the concept. More details will be added.
+
+The research proposal is quite important.The overall plan is shown below.
+
+|  Part | Content |
+| ----- | ------- |
+| Aims and Objectives | define the scope of your project |
+| Motivation | establish the need for your project|
+| Literature Review | evaluate the relevant state-of-the-art |
+| Impact Assessment | consider potential social, environmental, economic, political, legal or  ethical implications |
+| Risk Register | identify and manage programmatic risks |
+| Timeline | a chart dividing your project into a set of subtasks with time allocations |
