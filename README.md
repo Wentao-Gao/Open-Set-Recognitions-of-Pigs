@@ -39,12 +39,12 @@ The research proposal is quite important.The overall content is shown below.
 
 [Aims and Objectives](https://patthomson.net/2014/06/09/aims-and-objectives-whats-the-difference/) : Limit of Machine Learning and Potencial of Open-set Recognition.
 
-[Motivation](read://https_www.bloodraynebetrayal.com/?url=https%3A%2F%2Fwww.bloodraynebetrayal.com%2Fsuzanna-escobar%2Fhow-to-write-better%2Fwhat-is-the-motivation-in-research%2F)
+[Motivation](read://https_www.bloodraynebetrayal.com/?url=https%3A%2F%2Fwww.bloodraynebetrayal.com%2Fsuzanna-escobar%2Fhow-to-write-better%2Fwhat-is-the-motivation-in-research%2F) : Still thinking
 
 [Literature Review](https://www.scribbr.com/dissertation/literature-review/) : Recognition of pigs / Object detection / Open-set Recognition
 
 Impact Assessment : No idea
 
-[Risk Register](https://www.indeed.com/hire/c/info/project-risk-registers#:~:text=Example%201%3A%20%20%20Risk%20identifier%20%20,%20%20Low%20%20%20Project%20sponsor%20)
+[Risk Register](https://www.indeed.com/hire/c/info/project-risk-registers#:~:text=Example%201%3A%20%20%20Risk%20identifier%20%20,%20%20Low%20%20%20Project%20sponsor%20) : Still thinking
 
 Timeline: Using gantt graph in Typora to build.
