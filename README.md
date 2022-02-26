@@ -27,11 +27,11 @@ These two file can help understand the concept. More details will be added.
 
 The research proposal is quite important.The overall content is shown below.
 
-|  Part | Content |
-| ----- | ------- |
-| Aims and Objectives | define the scope of your project |
-| Motivation | establish the need for your project|
-| Literature Review | evaluate the relevant state-of-the-art |
-| Impact Assessment | consider potential social, environmental, economic, political, legal or  ethical implications |
-| Risk Register | identify and manage programmatic risks |
-| Timeline | a chart dividing your project into a set of subtasks with time allocations |
+|  Part | Content | ---- ｜
+| ----- | ------- | ---- ｜
+| Aims and Objectives | define the scope of your project | Limit of Machine Learning and the potencial of Openset Recognition|
+| Motivation | establish the need for your project| --- |
+| Literature Review | evaluate the relevant state-of-the-art | recognition of pigs/ object dection/ open-set recognition |
+| Impact Assessment | consider potential social, environmental, economic, political, legal or  ethical implications | --- |
+| Risk Register | identify and manage programmatic risks | --- |
+| Timeline | a chart dividing your project into a set of subtasks with time allocations | --- |
