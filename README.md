@@ -25,7 +25,7 @@ SVM: [*Support Vector Machine*](https://github.com/gwt9970161/Great-Project-/blo
 
 These two file can help understand the concept. More details will be added.
 
-The research proposal is quite important.The overall plan is shown below.
+The research proposal is quite important.The overall content is shown below.
 
 |  Part | Content |
 | ----- | ------- |
