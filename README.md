@@ -25,6 +25,7 @@ SVM: [*Support Vector Machine*](https://github.com/gwt9970161/Great-Project-/blo
 
 These two file can help understand the concept. More details will be added.
 
+--------------------------------------------------------------------------------------------------------------------------------
 The research proposal is quite important.The overall content is shown below.
 
 |  Part | Content | 
@@ -35,3 +36,5 @@ The research proposal is quite important.The overall content is shown below.
 | Impact Assessment | consider potential social, environmental, economic, political, legal or  ethical implications | 
 | Risk Register | identify and manage programmatic risks | 
 | Timeline | a chart dividing your project into a set of subtasks with time allocations | 
+
+Aims
