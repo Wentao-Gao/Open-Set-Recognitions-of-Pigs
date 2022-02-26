@@ -39,7 +39,7 @@ The research proposal is quite important.The overall content is shown below.
 
 [Aims and Objectives](https://patthomson.net/2014/06/09/aims-and-objectives-whats-the-difference/) : Limit of Machine Learning and Potencial of Open-set Recognition.
 
-[Motivation](read://https_www.bloodraynebetrayal.com/?url=https%3A%2F%2Fwww.bloodraynebetrayal.com%2Fsuzanna-escobar%2Fhow-to-write-better%2Fwhat-is-the-motivation-in-research%2F) : Still thinking
+[Motivation](read://https_www.bloodraynebetrayal.com/?url=https%3A%2F%2Fwww.bloodraynebetrayal.com%2Fsuzanna-escobar%2Fhow-to-write-better%2Fwhat-is-the-motivation-in-research%2F): Still thinking
 
 [Literature Review](https://www.scribbr.com/dissertation/literature-review/) : Recognition of pigs / Object detection / Open-set Recognition
 
