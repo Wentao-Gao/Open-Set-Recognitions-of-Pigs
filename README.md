@@ -18,5 +18,7 @@ reading: [*Recent Advances in Open Set Recognition- A Survey* ](https://github.c
 
 in the progress of reading papers, some concept are vital for me to understanding first.
 So I make some notes on CNN and SVM.
-CNN: 
-SVM:
+CNN: [*Convolutional Neural Network*](https://github.com/gwt9970161/Great-Project-/blob/main/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%AF%A6%E8%A7%A3.md)
+SVM: [*Support Vector Machine*](https://github.com/gwt9970161/Great-Project-/blob/main/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA.md)
+
+These two file can help understand the concept. More details will be added.
