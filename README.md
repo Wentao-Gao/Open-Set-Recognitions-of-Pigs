@@ -1,6 +1,6 @@
 # [Great-Project-](https://gwt9970161.github.io/Great-Project-/)
 This is the project of my master's dissertation progress
-
+Related course [intro to AI](https://gwt9970161.github.io/Introduction-to-AI/)can be helpful for the program
 
 ## Week 1:  A start of project
 
@@ -51,7 +51,7 @@ Timeline: Using gantt graph in Typora to build.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-Also, I am going to study the tensorflow and keras to prepare for my dissertation.
+Also, I am going to study the tensorflow and keras to prepare for my dissertation. 
 
 Date: 2022/02/27 
 
