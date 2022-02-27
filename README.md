@@ -1,6 +1,7 @@
 # [Great-Project-](https://gwt9970161.github.io/Great-Project-/)
 This is the project of my master's dissertation progress
-Related course [intro to AI](https://gwt9970161.github.io/Introduction-to-AI/)can be helpful for the program
+
+Related course [intro to AI](https://gwt9970161.github.io/Introduction-to-AI/) can be helpful for the program
 
 ## Week 1:  A start of project
 
