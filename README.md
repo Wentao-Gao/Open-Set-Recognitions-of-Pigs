@@ -53,7 +53,9 @@ Timeline: Using gantt graph in Typora to build.
 
 Also, I am going to study the tensorflow and keras to prepare for my dissertation.
 
-2022/02/27 Finish reading following tutorials.
+Date: 2022/02/27 
+
+Finish reading following tutorials.
 
 [**tensorflow 2.0 tutorial**](https://www.tensorflow.org/tutorials/quickstart/beginner) 
 
