@@ -58,8 +58,18 @@ Date: 2022/02/27
 
 Finish reading following tutorials.
 
-[**tensorflow 2.0 tutorial**](https://www.tensorflow.org/tutorials/quickstart/beginner) 
+[**Tensorflow 2.0 tutorial**](https://www.tensorflow.org/tutorials/quickstart/beginner) 
 
 [**Keras machine learning tutorials**](https://www.tensorflow.org/tutorials/keras/classification)
 
 [**Load and preprocess data**](https://www.tensorflow.org/tutorials/load_data/images)
+
+
+## Week 3: Finish Research Proposal and keep learning tutorials
+
+Sending the RP to my supevisor and keep improving
+
+
+
+
+
