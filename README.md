@@ -1,6 +1,13 @@
 # [Think Different](https://gwt9970161.github.io/Think-Different/)
 This is the project of my master's dissertation progress
 
+
+Basic of python also will be help:
+
+[data structure and algorithym](https://gwt9970161.github.io/Data-structue-and-algorithym-python/)
+
+keep studying these.
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 Related course [intro to AI](https://gwt9970161.github.io/Introduction-to-AI/) can be helpful for the program
@@ -85,6 +92,11 @@ Finish reading following tutorials.
 
 Sending the RP to my supevisor and keep improving
 
+Date: 2022/03/11
+
+having finished the RP.
+
+started learning [data structure and algorithym](https://gwt9970161.github.io/Data-structue-and-algorithym-python/).
 
 
 
