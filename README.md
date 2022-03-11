@@ -3,11 +3,7 @@ This is the project of my master's dissertation progress
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-Basic of python also will be help:
-
-[data structure and algorithym](https://gwt9970161.github.io/Data-structue-and-algorithym-python/)
-
-keep studying these.
+**Basic of python also will be help: [data structure and algorithym](https://gwt9970161.github.io/Data-structue-and-algorithym-python/)**
 
 --------------------------------------------------------------------------------------------------------------------------------
 
