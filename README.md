@@ -1,6 +1,7 @@
 # [Think Different](https://gwt9970161.github.io/Think-Different/)
 This is the project of my master's dissertation progress
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 Basic of python also will be help:
 
