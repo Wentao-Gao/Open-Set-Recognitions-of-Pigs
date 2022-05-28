@@ -7,7 +7,7 @@ This is the project of my master's dissertation progress
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-Related course [intro to AI](https://gwt9970161.github.io/Introduction-to-AI/) can be helpful for the program
+Related course intro to AI can be helpful for the program
 
 These are related materials
 
