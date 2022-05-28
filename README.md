@@ -24,14 +24,14 @@ These are related materials
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-## Week 1:  A start of project
+### Week 1:  A start of project
 
 The first step is to do the reading of a related paper :
 [*Visual identification of individual Holstein-Friesian cattle via deep metric learning*](https://github.com/gwt9970161/Great-Project-/blob/main/1.%20Visual%20identification%20of%20individual%20Holstein-Friesian%20cattle%20via%20deep%20metric%20learning.pdf)
 
 the pdf file and the mind map note will be given
 
-## Week 2:  Then start reading papers and start writing research proposal
+### Week 2:  Then start reading papers and start writing research proposal
 
 This week I have contact my tutor and get some help from him. Start with reading and writing rp. Also remenber to imporve programming skills with the official examples in [keras](https://keras.io/examples/).
 
@@ -86,7 +86,7 @@ Finish reading following tutorials.
 [**Load and preprocess data**](https://www.tensorflow.org/tutorials/load_data/images)
 
 
-## Week 3: Finish Research Proposal and keep learning tutorials
+### Week 3: Finish Research Proposal and keep learning tutorials
 
 Sending the RP to my supevisor and keep improving
 
