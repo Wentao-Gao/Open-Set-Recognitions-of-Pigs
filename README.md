@@ -7,6 +7,10 @@ This is the project of my master's dissertation progress
 
 --------------------------------------------------------------------------------------------------------------------------------
 
+**[Related papers](https://github.com/gwt9970161/awesome_OpenSetRecognition_list#tutorials) can be found here.**
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 Related course intro to AI can be helpful for the program
 
 These are related materials
