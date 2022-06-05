@@ -96,7 +96,7 @@ Sending the RP to my supevisor and keep improving
 
 Date: 2022/03/11
 
-having finished the RP.
+having finished the [RP]().
 
 started learning [data structure and algorithym](https://gwt9970161.github.io/Data-structue-and-algorithym-python/).
 
