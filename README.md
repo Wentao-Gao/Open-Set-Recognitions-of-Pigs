@@ -96,7 +96,7 @@ Sending the RP to my supevisor and keep improving
 
 Date: 2022/03/11
 
-having finished the [RP](https://github.com/gwt9970161/Think-Different/blob/main/RP_Bristol_%20Wentao%20Gao.pdf).
+having finished the [Research Proposal](https://github.com/gwt9970161/Think-Different/blob/main/RP_Bristol_%20Wentao%20Gao.pdf).
 
 started learning [data structure and algorithym](https://gwt9970161.github.io/Data-structue-and-algorithym-python/).
 
