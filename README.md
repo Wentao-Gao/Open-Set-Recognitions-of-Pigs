@@ -100,6 +100,8 @@ having finished the [Research Proposal](https://github.com/gwt9970161/Think-Diff
 
 started learning [data structure and algorithym](https://gwt9970161.github.io/Data-structue-and-algorithym-python/).
 
+### Week 4: Deep learning 
 
+Finishing the basic of deep learning. 
 
-
+Date: 2022/06/05
