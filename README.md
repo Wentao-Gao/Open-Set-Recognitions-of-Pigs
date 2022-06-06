@@ -33,6 +33,8 @@ These are related materials
 The first step is to do the reading of a related paper :
 [*Visual identification of individual Holstein-Friesian cattle via deep metric learning*](https://github.com/gwt9970161/Great-Project-/blob/main/1.%20Visual%20identification%20of%20individual%20Holstein-Friesian%20cattle%20via%20deep%20metric%20learning.pdf)
 
+[Code](https://github.com/CWOA/MetricLearningIdentification)
+
 the pdf file and the mind map note will be given
 
 ### Week 2:  Then start reading papers and start writing research proposal
