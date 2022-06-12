@@ -11,6 +11,9 @@ This is the project of my master's dissertation progress
 
 --------------------------------------------------------------------------------------------------------------------------------
 
+To better implement the goal, a good GPU will be needed. So I decided to use [Colab Pro](https://colab.research.google.com/drive/1zt7mPrb9sfU2ZC4vIa5Ns-JOsmyqtL97) platform and using [AutoDL](https://www.gpuhub.com/home) to run the large scale code.
+
+
 Related course intro to AI can be helpful for the program
 
 These are related materials
