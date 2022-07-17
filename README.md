@@ -120,5 +120,6 @@ Sucessfully run the code of [*Visual identification of individual Holstein-Fries
 
 About Open Set classification, an image will be helpful for understand.
 
-![](web-app/src/assets/display_sm.jpg)
+![image](https://user-images.githubusercontent.com/77952995/179427143-d8bfdf30-0286-41f5-9ce0-0e96d178c19c.png)
+
 
