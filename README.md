@@ -9,6 +9,7 @@ This is the project of my master's dissertation progress
 
 **[Related papers](https://github.com/gwt9970161/awesome_OpenSetRecognition_list#tutorials) can be found here.**
 
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 To better implement the goal, a good GPU will be needed. So I decided to use [Colab Pro](https://colab.research.google.com/drive/1zt7mPrb9sfU2ZC4vIa5Ns-JOsmyqtL97) platform and using [AutoDL](https://www.gpuhub.com/home) to run the large scale code.
@@ -37,6 +38,10 @@ The first step is to do the reading of a related paper :
 [*Visual identification of individual Holstein-Friesian cattle via deep metric learning*](https://github.com/gwt9970161/Great-Project-/blob/main/1.%20Visual%20identification%20of%20individual%20Holstein-Friesian%20cattle%20via%20deep%20metric%20learning.pdf)
 
 [Code](https://github.com/CWOA/MetricLearningIdentification)
+
+其中，深度度量学习需要进行了解，附上综述：
+
+[深度度量学习综述](http://html.rhhz.net/tis/html/201906045.htm)
 
 the pdf file and the mind map note will be given
 
