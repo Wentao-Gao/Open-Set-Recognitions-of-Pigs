@@ -118,4 +118,7 @@ Date: 2022/06/05
 
 Sucessfully run the code of [*Visual identification of individual Holstein-Friesian cattle via deep metric learning*](https://github.com/gwt9970161/Great-Project-/blob/main/1.%20Visual%20identification%20of%20individual%20Holstein-Friesian%20cattle%20via%20deep%20metric%20learning.pdf)
 
+About Open Set classification, an image will be helpful for understand.
+
+![](web-app/src/assets/display_sm.jpg)
 
