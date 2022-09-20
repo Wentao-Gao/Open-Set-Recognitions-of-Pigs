@@ -36,10 +36,7 @@ These are related materials
 
 The first step is to do the reading of a related paper :
 [*Visual identification of individual Holstein-Friesian cattle via deep metric learning*](https://github.com/gwt9970161/Great-Project-/blob/main/1.%20Visual%20identification%20of%20individual%20Holstein-Friesian%20cattle%20via%20deep%20metric%20learning.pdf)
-
-[Code](https://github.com/CWOA/MetricLearningIdentification)
-
-其中，深度度量学习需要进行了解，附上综述：
+-------------[Code](https://github.com/CWOA/MetricLearningIdentification)
 
 [深度度量学习综述](http://html.rhhz.net/tis/html/201906045.htm)
 
@@ -55,12 +52,6 @@ The first step is to do the reading of a related paper :
 
 [Recent Advances in Open Set Recognition: A Survey](https://arxiv.org/abs/1811.08581)
 
-### Part 2:  Then start reading papers and start writing research proposal
-
-This week I have contact my tutor and get some help from him. Start with reading and writing rp. Also remenber to imporve programming skills with the official examples in [keras](https://keras.io/examples/).
-
-
-reading: [*Recent Advances in Open Set Recognition- A Survey* ](https://github.com/gwt9970161/Great-Project-/blob/main/2.%20Recent%20Advances%20in%20Open%20Set%20Recognition-%20A%20%20Survey.pdf)
 
 in the progress of reading papers, some concept are vital for me to understanding first.
 So I make some notes on CNN and SVM.
@@ -70,6 +61,13 @@ CNN: [*Convolutional Neural Network*](https://github.com/gwt9970161/Great-Projec
 SVM: [*Support Vector Machine*](https://github.com/gwt9970161/Great-Project-/blob/main/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA.md)
 
 These two file can help understand the concept. More details will be added.
+
+
+### Part 2:  Then start reading papers and start writing research proposal
+
+This week I have contact my tutor and get some help from him. Start with reading and writing rp. Also remenber to imporve programming skills with the official examples in [keras](https://keras.io/examples/).
+
+reading: [*Recent Advances in Open Set Recognition- A Survey* ](https://github.com/gwt9970161/Great-Project-/blob/main/2.%20Recent%20Advances%20in%20Open%20Set%20Recognition-%20A%20%20Survey.pdf)
 
 --------------------------------------------------------------------------------------------------------------------------------
 The research proposal is quite important.The overall content is shown below.
@@ -107,17 +105,14 @@ Finish reading following tutorials.
 
 [**Load and preprocess data**](https://www.tensorflow.org/tutorials/load_data/images)
 
+Finish Research Proposal and keep learning tutorials
 
-### Part 3: Finish Research Proposal and keep learning tutorials
-
-Sending the RP to my supevisor and keep improving
-
-
-having finished the [Research Proposal](https://github.com/gwt9970161/Think-Different/blob/main/RP_Bristol_%20Wentao%20Gao.pdf).
+Sending the RP to my supevisor and keep improving, having finished the [Research Proposal](https://github.com/gwt9970161/Think-Different/blob/main/RP_Bristol_%20Wentao%20Gao.pdf).
 
 started learning [data structure and algorithym](https://gwt9970161.github.io/Data-structue-and-algorithym-python/).
 
-### Part 4: Deep learning 
+
+### Part 3: Deep learning 
 
 Finishing the basic of deep learning. and implement the paper code.
 
@@ -127,5 +122,8 @@ Sucessfully run the code of [*Visual identification of individual Holstein-Fries
 About Open Set classification, an image will be helpful for understand.
 
 ![image](https://user-images.githubusercontent.com/77952995/179427143-d8bfdf30-0286-41f5-9ce0-0e96d178c19c.png)
+
+### Part 4: Metric learning
+
 
 
