@@ -32,7 +32,7 @@ These are related materials
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-### Part 1:  A start of project
+### Part 1:  A start of project: Paper reading
 
 The first step is to do the reading of a related paper :
 [*Visual identification of individual Holstein-Friesian cattle via deep metric learning*](https://github.com/gwt9970161/Great-Project-/blob/main/1.%20Visual%20identification%20of%20individual%20Holstein-Friesian%20cattle%20via%20deep%20metric%20learning.pdf)
@@ -43,7 +43,17 @@ The first step is to do the reading of a related paper :
 
 [深度度量学习综述](http://html.rhhz.net/tis/html/201906045.htm)
 
-the pdf file and the mind map note will be given
+[Towards on-farm pig face recognition using convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0166361517304992)
+
+[FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832)
+
+[Deep Metric Learning via Lifted Structured Feature Embedding](https://arxiv.org/abs/1511.06452)
+
+[Clustering-guided Pairwise Metric Triplet Loss for Person Re-identiﬁcation](https://ieeexplore.ieee.org/abstract/document/9698102)
+
+[Metric Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/8186753)
+
+[Recent Advances in Open Set Recognition: A Survey](https://arxiv.org/abs/1811.08581)
 
 ### Part 2:  Then start reading papers and start writing research proposal
 
