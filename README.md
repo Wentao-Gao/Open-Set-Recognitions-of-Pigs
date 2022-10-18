@@ -125,5 +125,6 @@ About Open Set classification, an image will be helpful for understand.
 
 ### Part 4: Metric learning
 
+This part will be shown detailed in disserattion. it will be released in the end of 2022.
 
 
