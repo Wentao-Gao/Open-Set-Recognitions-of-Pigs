@@ -1,4 +1,4 @@
-# [Open-set recognition of Pigs](https://gwt9970161.github.io/Think-Different/)
+# [Open-Set Recognition of Pigs](https://gwt9970161.github.io/Think-Different/)
 This is the project of my master's dissertation progress
 
 --------------------------------------------------------------------------------------------------------------------------------
